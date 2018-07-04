@@ -56,7 +56,7 @@ This component will automatically restore the state it had prior to Home Assista
 
 ## {% linkable_title Automation Examples %}
 
-Here's an example of `numeric_float` being used as a trigger in an automation.
+Here's an example of `numeric_integer` being used in an automation.
 
 {% raw %}
 ```yaml
