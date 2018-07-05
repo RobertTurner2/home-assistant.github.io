@@ -2,14 +2,14 @@
 layout: page
 title: "Numeric Float"
 description: "Instructions on how to integrate the Numeric Float component into Home Assistant."
-date: 2018-07-04 02:30
+date: 2018-07-05 05:30
 sidebar: true
 comments: false
 sharing: true
 footer: true
 logo: home-assistant.png
 ha_category: Automation
-ha_release: 0.73
+ha_release: ??
 redirect_from: /components/numeric_float/
 ---
 
